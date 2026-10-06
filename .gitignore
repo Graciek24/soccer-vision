@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.DS_Store
+
+#Input/output videos
+input/
+output/
+runs/
+
+# YOLO model weights
+*.pt
